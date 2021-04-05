@@ -1,0 +1,1238 @@
+{
+    "программисты": [
+        {
+            "doc": 88,
+            "url": "https://habr.com/ru/post/210142/",
+            "tf-idf": 0.299229
+        },
+        {
+            "doc": 11,
+            "url": "https://habr.com/ru/post/183674/",
+            "tf-idf": 0.080794
+        },
+        {
+            "doc": 42,
+            "url": "https://habr.com/ru/post/275841/",
+            "tf-idf": 0.059777
+        },
+        {
+            "doc": 69,
+            "url": "https://habr.com/ru/post/51544/",
+            "tf-idf": 0.036804
+        },
+        {
+            "doc": 97,
+            "url": "https://habr.com/ru/post/423889/",
+            "tf-idf": 0.032214
+        },
+        {
+            "doc": 77,
+            "url": "https://habr.com/ru/post/192604/",
+            "tf-idf": 0.020493
+        },
+        {
+            "doc": 59,
+            "url": "https://habr.com/ru/post/488592/",
+            "tf-idf": 0.01934
+        },
+        {
+            "doc": 36,
+            "url": "https://habr.com/ru/post/86394/",
+            "tf-idf": 0.018285
+        },
+        {
+            "doc": 53,
+            "url": "https://habr.com/ru/post/450266/",
+            "tf-idf": 0.0178
+        },
+        {
+            "doc": 43,
+            "url": "https://habr.com/ru/post/438514/",
+            "tf-idf": 0.017367
+        },
+        {
+            "doc": 90,
+            "url": "https://habr.com/ru/post/70330/",
+            "tf-idf": 0.015807
+        },
+        {
+            "doc": 20,
+            "url": "https://habr.com/ru/post/129640/",
+            "tf-idf": 0.015038
+        },
+        {
+            "doc": 12,
+            "url": "https://habr.com/ru/post/522524/",
+            "tf-idf": 0.014262
+        },
+        {
+            "doc": 25,
+            "url": "https://habr.com/ru/post/273249/",
+            "tf-idf": 0.012449
+        },
+        {
+            "doc": 15,
+            "url": "https://habr.com/ru/post/543692/",
+            "tf-idf": 0.011954
+        },
+        {
+            "doc": 83,
+            "url": "https://habr.com/ru/post/497114/",
+            "tf-idf": 0.010995
+        },
+        {
+            "doc": 2,
+            "url": "https://habr.com/ru/post/110395/",
+            "tf-idf": 0.009727
+        },
+        {
+            "doc": 80,
+            "url": "https://habr.com/ru/post/161301/",
+            "tf-idf": 0.009252
+        },
+        {
+            "doc": 41,
+            "url": "https://habr.com/ru/post/142140/",
+            "tf-idf": 0.008304
+        },
+        {
+            "doc": 38,
+            "url": "https://habr.com/ru/post/126373/",
+            "tf-idf": 0.005776
+        },
+        {
+            "doc": 55,
+            "url": "https://habr.com/ru/post/178959/",
+            "tf-idf": 0.003802
+        }
+    ],
+    "блогеры программисты": [
+        {
+            "doc": 88,
+            "url": "https://habr.com/ru/post/210142/",
+            "tf-idf": 0.090974
+        },
+        {
+            "doc": 11,
+            "url": "https://habr.com/ru/post/183674/",
+            "tf-idf": 0.024564
+        },
+        {
+            "doc": 42,
+            "url": "https://habr.com/ru/post/275841/",
+            "tf-idf": 0.018174
+        },
+        {
+            "doc": 7,
+            "url": "https://habr.com/ru/post/183374/",
+            "tf-idf": 0.014578
+        },
+        {
+            "doc": 69,
+            "url": "https://habr.com/ru/post/51544/",
+            "tf-idf": 0.01119
+        },
+        {
+            "doc": 97,
+            "url": "https://habr.com/ru/post/423889/",
+            "tf-idf": 0.009794
+        },
+        {
+            "doc": 77,
+            "url": "https://habr.com/ru/post/192604/",
+            "tf-idf": 0.006231
+        },
+        {
+            "doc": 59,
+            "url": "https://habr.com/ru/post/488592/",
+            "tf-idf": 0.00588
+        },
+        {
+            "doc": 36,
+            "url": "https://habr.com/ru/post/86394/",
+            "tf-idf": 0.005559
+        },
+        {
+            "doc": 53,
+            "url": "https://habr.com/ru/post/450266/",
+            "tf-idf": 0.005412
+        },
+        {
+            "doc": 43,
+            "url": "https://habr.com/ru/post/438514/",
+            "tf-idf": 0.00528
+        },
+        {
+            "doc": 90,
+            "url": "https://habr.com/ru/post/70330/",
+            "tf-idf": 0.004806
+        },
+        {
+            "doc": 20,
+            "url": "https://habr.com/ru/post/129640/",
+            "tf-idf": 0.004572
+        },
+        {
+            "doc": 12,
+            "url": "https://habr.com/ru/post/522524/",
+            "tf-idf": 0.004336
+        },
+        {
+            "doc": 25,
+            "url": "https://habr.com/ru/post/273249/",
+            "tf-idf": 0.003785
+        },
+        {
+            "doc": 15,
+            "url": "https://habr.com/ru/post/543692/",
+            "tf-idf": 0.003634
+        },
+        {
+            "doc": 83,
+            "url": "https://habr.com/ru/post/497114/",
+            "tf-idf": 0.003343
+        },
+        {
+            "doc": 2,
+            "url": "https://habr.com/ru/post/110395/",
+            "tf-idf": 0.002957
+        },
+        {
+            "doc": 80,
+            "url": "https://habr.com/ru/post/161301/",
+            "tf-idf": 0.002813
+        },
+        {
+            "doc": 41,
+            "url": "https://habr.com/ru/post/142140/",
+            "tf-idf": 0.002525
+        },
+        {
+            "doc": 38,
+            "url": "https://habr.com/ru/post/126373/",
+            "tf-idf": 0.001756
+        },
+        {
+            "doc": 55,
+            "url": "https://habr.com/ru/post/178959/",
+            "tf-idf": 0.001156
+        }
+    ],
+    "как повысить зарплату": [
+        {
+            "doc": 69,
+            "url": "https://habr.com/ru/post/51544/",
+            "tf-idf": 0.073462
+        },
+        {
+            "doc": 12,
+            "url": "https://habr.com/ru/post/522524/",
+            "tf-idf": 0.064047
+        },
+        {
+            "doc": 11,
+            "url": "https://habr.com/ru/post/183674/",
+            "tf-idf": 0.032245
+        },
+        {
+            "doc": 62,
+            "url": "https://habr.com/ru/post/192218/",
+            "tf-idf": 0.015179
+        },
+        {
+            "doc": 98,
+            "url": "https://habr.com/ru/post/542372/",
+            "tf-idf": 0.010787
+        },
+        {
+            "doc": 64,
+            "url": "https://habr.com/ru/post/543052/",
+            "tf-idf": 0.008235
+        },
+        {
+            "doc": 40,
+            "url": "https://habr.com/ru/post/146730/",
+            "tf-idf": 0.007837
+        }
+    ],
+    "как получить повышение": [
+        {
+            "doc": 23,
+            "url": "https://habr.com/ru/post/439766/",
+            "tf-idf": 0.029253
+        },
+        {
+            "doc": 93,
+            "url": "https://habr.com/ru/post/254473/",
+            "tf-idf": 0.021212
+        },
+        {
+            "doc": 97,
+            "url": "https://habr.com/ru/post/423889/",
+            "tf-idf": 0.016454
+        },
+        {
+            "doc": 84,
+            "url": "https://habr.com/ru/post/536750/",
+            "tf-idf": 0.015695
+        },
+        {
+            "doc": 33,
+            "url": "https://habr.com/ru/post/127197/",
+            "tf-idf": 0.014161
+        },
+        {
+            "doc": 12,
+            "url": "https://habr.com/ru/post/522524/",
+            "tf-idf": 0.012503
+        },
+        {
+            "doc": 62,
+            "url": "https://habr.com/ru/post/192218/",
+            "tf-idf": 0.010284
+        },
+        {
+            "doc": 29,
+            "url": "https://habr.com/ru/post/543688/",
+            "tf-idf": 0.009779
+        },
+        {
+            "doc": 90,
+            "url": "https://habr.com/ru/post/70330/",
+            "tf-idf": 0.009756
+        },
+        {
+            "doc": 31,
+            "url": "https://habr.com/ru/post/206264/",
+            "tf-idf": 0.008912
+        },
+        {
+            "doc": 24,
+            "url": "https://habr.com/ru/post/131386/",
+            "tf-idf": 0.005966
+        },
+        {
+            "doc": 67,
+            "url": "https://habr.com/ru/post/185806/",
+            "tf-idf": 0.004854
+        },
+        {
+            "doc": 91,
+            "url": "https://habr.com/ru/post/480956/",
+            "tf-idf": 0.004525
+        },
+        {
+            "doc": 43,
+            "url": "https://habr.com/ru/post/438514/",
+            "tf-idf": 0.004393
+        },
+        {
+            "doc": 25,
+            "url": "https://habr.com/ru/post/273249/",
+            "tf-idf": 0.004197
+        },
+        {
+            "doc": 35,
+            "url": "https://habr.com/ru/post/176481/",
+            "tf-idf": 0.003996
+        },
+        {
+            "doc": 45,
+            "url": "https://habr.com/ru/post/147828/",
+            "tf-idf": 0.00367
+        },
+        {
+            "doc": 82,
+            "url": "https://habr.com/ru/post/222965/",
+            "tf-idf": 0.003653
+        },
+        {
+            "doc": 71,
+            "url": "https://habr.com/ru/post/476034/",
+            "tf-idf": 0.003586
+        },
+        {
+            "doc": 65,
+            "url": "https://habr.com/ru/post/134373/",
+            "tf-idf": 0.003241
+        },
+        {
+            "doc": 66,
+            "url": "https://habr.com/ru/post/335010/",
+            "tf-idf": 0.003195
+        },
+        {
+            "doc": 1,
+            "url": "https://habr.com/ru/post/149179/",
+            "tf-idf": 0.003045
+        },
+        {
+            "doc": 61,
+            "url": "https://habr.com/ru/post/102521/",
+            "tf-idf": 0.002892
+        },
+        {
+            "doc": 89,
+            "url": "https://habr.com/ru/post/49778/",
+            "tf-idf": 0.002776
+        },
+        {
+            "doc": 28,
+            "url": "https://habr.com/ru/post/117367/",
+            "tf-idf": 0.002461
+        },
+        {
+            "doc": 47,
+            "url": "https://habr.com/ru/post/234663/",
+            "tf-idf": 0.002409
+        },
+        {
+            "doc": 57,
+            "url": "https://habr.com/ru/post/157775/",
+            "tf-idf": 0.002385
+        },
+        {
+            "doc": 34,
+            "url": "https://habr.com/ru/post/172393/",
+            "tf-idf": 0.002378
+        },
+        {
+            "doc": 38,
+            "url": "https://habr.com/ru/post/126373/",
+            "tf-idf": 0.002269
+        },
+        {
+            "doc": 5,
+            "url": "https://habr.com/ru/post/465355/",
+            "tf-idf": 0.002114
+        },
+        {
+            "doc": 36,
+            "url": "https://habr.com/ru/post/86394/",
+            "tf-idf": 0.002055
+        },
+        {
+            "doc": 8,
+            "url": "https://habr.com/ru/post/454078/",
+            "tf-idf": 0.002001
+        },
+        {
+            "doc": 21,
+            "url": "https://habr.com/ru/post/185510/",
+            "tf-idf": 0.001792
+        },
+        {
+            "doc": 10,
+            "url": "https://habr.com/ru/post/68131/",
+            "tf-idf": 0.001693
+        },
+        {
+            "doc": 14,
+            "url": "https://habr.com/ru/post/347760/",
+            "tf-idf": 0.001613
+        },
+        {
+            "doc": 19,
+            "url": "https://habr.com/ru/post/543174/",
+            "tf-idf": 0.001508
+        },
+        {
+            "doc": 95,
+            "url": "https://habr.com/ru/post/134150/",
+            "tf-idf": 0.001457
+        },
+        {
+            "doc": 86,
+            "url": "https://habr.com/ru/post/117160/",
+            "tf-idf": 0.00144
+        },
+        {
+            "doc": 41,
+            "url": "https://habr.com/ru/post/142140/",
+            "tf-idf": 0.0014
+        },
+        {
+            "doc": 7,
+            "url": "https://habr.com/ru/post/183374/",
+            "tf-idf": 0.001372
+        },
+        {
+            "doc": 40,
+            "url": "https://habr.com/ru/post/146730/",
+            "tf-idf": 0.00132
+        },
+        {
+            "doc": 4,
+            "url": "https://habr.com/ru/post/206900/",
+            "tf-idf": 0.001305
+        },
+        {
+            "doc": 55,
+            "url": "https://habr.com/ru/post/178959/",
+            "tf-idf": 0.001282
+        },
+        {
+            "doc": 83,
+            "url": "https://habr.com/ru/post/497114/",
+            "tf-idf": 0.001236
+        },
+        {
+            "doc": 3,
+            "url": "https://habr.com/ru/post/541076/",
+            "tf-idf": 0.001234
+        },
+        {
+            "doc": 6,
+            "url": "https://habr.com/ru/post/534242/",
+            "tf-idf": 0.001152
+        },
+        {
+            "doc": 22,
+            "url": "https://habr.com/ru/post/316912/",
+            "tf-idf": 0.000996
+        },
+        {
+            "doc": 17,
+            "url": "https://habr.com/ru/post/117193/",
+            "tf-idf": 0.000959
+        },
+        {
+            "doc": 75,
+            "url": "https://habr.com/ru/post/491974/",
+            "tf-idf": 0.00095
+        },
+        {
+            "doc": 73,
+            "url": "https://habr.com/ru/post/483156/",
+            "tf-idf": 0.000947
+        },
+        {
+            "doc": 79,
+            "url": "https://habr.com/ru/post/211701/",
+            "tf-idf": 0.000942
+        },
+        {
+            "doc": 11,
+            "url": "https://habr.com/ru/post/183674/",
+            "tf-idf": 0.000907
+        },
+        {
+            "doc": 20,
+            "url": "https://habr.com/ru/post/129640/",
+            "tf-idf": 0.000843
+        },
+        {
+            "doc": 42,
+            "url": "https://habr.com/ru/post/275841/",
+            "tf-idf": 0.00084
+        },
+        {
+            "doc": 27,
+            "url": "https://habr.com/ru/post/415841/",
+            "tf-idf": 0.000833
+        },
+        {
+            "doc": 60,
+            "url": "https://habr.com/ru/post/152885/",
+            "tf-idf": 0.000756
+        },
+        {
+            "doc": 30,
+            "url": "https://habr.com/ru/post/507498/",
+            "tf-idf": 0.000744
+        },
+        {
+            "doc": 78,
+            "url": "https://habr.com/ru/post/67141/",
+            "tf-idf": 0.000666
+        },
+        {
+            "doc": 74,
+            "url": "https://habr.com/ru/post/217645/",
+            "tf-idf": 0.000608
+        },
+        {
+            "doc": 98,
+            "url": "https://habr.com/ru/post/542372/",
+            "tf-idf": 0.000608
+        },
+        {
+            "doc": 52,
+            "url": "https://habr.com/ru/post/448530/",
+            "tf-idf": 0.000521
+        },
+        {
+            "doc": 92,
+            "url": "https://habr.com/ru/post/543202/",
+            "tf-idf": 0.000508
+        },
+        {
+            "doc": 77,
+            "url": "https://habr.com/ru/post/192604/",
+            "tf-idf": 0.000384
+        },
+        {
+            "doc": 15,
+            "url": "https://habr.com/ru/post/543692/",
+            "tf-idf": 0.000336
+        },
+        {
+            "doc": 54,
+            "url": "https://habr.com/ru/post/440092/",
+            "tf-idf": 0.000114
+        }
+    ],
+    "как получить повышение на работе": [
+        {
+            "doc": 23,
+            "url": "https://habr.com/ru/post/439766/",
+            "tf-idf": 0.030981
+        },
+        {
+            "doc": 93,
+            "url": "https://habr.com/ru/post/254473/",
+            "tf-idf": 0.022256
+        },
+        {
+            "doc": 97,
+            "url": "https://habr.com/ru/post/423889/",
+            "tf-idf": 0.020818
+        },
+        {
+            "doc": 84,
+            "url": "https://habr.com/ru/post/536750/",
+            "tf-idf": 0.015893
+        },
+        {
+            "doc": 12,
+            "url": "https://habr.com/ru/post/522524/",
+            "tf-idf": 0.015714
+        },
+        {
+            "doc": 33,
+            "url": "https://habr.com/ru/post/127197/",
+            "tf-idf": 0.013942
+        },
+        {
+            "doc": 43,
+            "url": "https://habr.com/ru/post/438514/",
+            "tf-idf": 0.012628
+        },
+        {
+            "doc": 62,
+            "url": "https://habr.com/ru/post/192218/",
+            "tf-idf": 0.010669
+        },
+        {
+            "doc": 90,
+            "url": "https://habr.com/ru/post/70330/",
+            "tf-idf": 0.01036
+        },
+        {
+            "doc": 29,
+            "url": "https://habr.com/ru/post/543688/",
+            "tf-idf": 0.01016
+        },
+        {
+            "doc": 31,
+            "url": "https://habr.com/ru/post/206264/",
+            "tf-idf": 0.009459
+        },
+        {
+            "doc": 98,
+            "url": "https://habr.com/ru/post/542372/",
+            "tf-idf": 0.007311
+        },
+        {
+            "doc": 11,
+            "url": "https://habr.com/ru/post/183674/",
+            "tf-idf": 0.00707
+        },
+        {
+            "doc": 57,
+            "url": "https://habr.com/ru/post/157775/",
+            "tf-idf": 0.006407
+        },
+        {
+            "doc": 7,
+            "url": "https://habr.com/ru/post/183374/",
+            "tf-idf": 0.006021
+        },
+        {
+            "doc": 67,
+            "url": "https://habr.com/ru/post/185806/",
+            "tf-idf": 0.005989
+        },
+        {
+            "doc": 24,
+            "url": "https://habr.com/ru/post/131386/",
+            "tf-idf": 0.005873
+        },
+        {
+            "doc": 16,
+            "url": "https://habr.com/ru/post/147042/",
+            "tf-idf": 0.00584
+        },
+        {
+            "doc": 36,
+            "url": "https://habr.com/ru/post/86394/",
+            "tf-idf": 0.005519
+        },
+        {
+            "doc": 40,
+            "url": "https://habr.com/ru/post/146730/",
+            "tf-idf": 0.005423
+        },
+        {
+            "doc": 73,
+            "url": "https://habr.com/ru/post/483156/",
+            "tf-idf": 0.004966
+        },
+        {
+            "doc": 71,
+            "url": "https://habr.com/ru/post/476034/",
+            "tf-idf": 0.004548
+        },
+        {
+            "doc": 66,
+            "url": "https://habr.com/ru/post/335010/",
+            "tf-idf": 0.004506
+        },
+        {
+            "doc": 91,
+            "url": "https://habr.com/ru/post/480956/",
+            "tf-idf": 0.004455
+        },
+        {
+            "doc": 65,
+            "url": "https://habr.com/ru/post/134373/",
+            "tf-idf": 0.00432
+        },
+        {
+            "doc": 17,
+            "url": "https://habr.com/ru/post/117193/",
+            "tf-idf": 0.004208
+        },
+        {
+            "doc": 25,
+            "url": "https://habr.com/ru/post/273249/",
+            "tf-idf": 0.004132
+        },
+        {
+            "doc": 35,
+            "url": "https://habr.com/ru/post/176481/",
+            "tf-idf": 0.003934
+        },
+        {
+            "doc": 45,
+            "url": "https://habr.com/ru/post/147828/",
+            "tf-idf": 0.003897
+        },
+        {
+            "doc": 34,
+            "url": "https://habr.com/ru/post/172393/",
+            "tf-idf": 0.00369
+        },
+        {
+            "doc": 82,
+            "url": "https://habr.com/ru/post/222965/",
+            "tf-idf": 0.003597
+        },
+        {
+            "doc": 69,
+            "url": "https://habr.com/ru/post/51544/",
+            "tf-idf": 0.003517
+        },
+        {
+            "doc": 28,
+            "url": "https://habr.com/ru/post/117367/",
+            "tf-idf": 0.00347
+        },
+        {
+            "doc": 55,
+            "url": "https://habr.com/ru/post/178959/",
+            "tf-idf": 0.003443
+        },
+        {
+            "doc": 38,
+            "url": "https://habr.com/ru/post/126373/",
+            "tf-idf": 0.003336
+        },
+        {
+            "doc": 8,
+            "url": "https://habr.com/ru/post/454078/",
+            "tf-idf": 0.003185
+        },
+        {
+            "doc": 1,
+            "url": "https://habr.com/ru/post/149179/",
+            "tf-idf": 0.002998
+        },
+        {
+            "doc": 20,
+            "url": "https://habr.com/ru/post/129640/",
+            "tf-idf": 0.002987
+        },
+        {
+            "doc": 5,
+            "url": "https://habr.com/ru/post/465355/",
+            "tf-idf": 0.00298
+        },
+        {
+            "doc": 14,
+            "url": "https://habr.com/ru/post/347760/",
+            "tf-idf": 0.002962
+        },
+        {
+            "doc": 27,
+            "url": "https://habr.com/ru/post/415841/",
+            "tf-idf": 0.002945
+        },
+        {
+            "doc": 61,
+            "url": "https://habr.com/ru/post/102521/",
+            "tf-idf": 0.002848
+        },
+        {
+            "doc": 83,
+            "url": "https://habr.com/ru/post/497114/",
+            "tf-idf": 0.002794
+        },
+        {
+            "doc": 21,
+            "url": "https://habr.com/ru/post/185510/",
+            "tf-idf": 0.002783
+        },
+        {
+            "doc": 89,
+            "url": "https://habr.com/ru/post/49778/",
+            "tf-idf": 0.002733
+        },
+        {
+            "doc": 60,
+            "url": "https://habr.com/ru/post/152885/",
+            "tf-idf": 0.002673
+        },
+        {
+            "doc": 44,
+            "url": "https://habr.com/ru/post/278827/",
+            "tf-idf": 0.002666
+        },
+        {
+            "doc": 30,
+            "url": "https://habr.com/ru/post/507498/",
+            "tf-idf": 0.00263
+        },
+        {
+            "doc": 26,
+            "url": "https://habr.com/ru/post/206742/",
+            "tf-idf": 0.002509
+        },
+        {
+            "doc": 47,
+            "url": "https://habr.com/ru/post/234663/",
+            "tf-idf": 0.002372
+        },
+        {
+            "doc": 51,
+            "url": "https://habr.com/ru/post/106684/",
+            "tf-idf": 0.002372
+        },
+        {
+            "doc": 19,
+            "url": "https://habr.com/ru/post/543174/",
+            "tf-idf": 0.002342
+        },
+        {
+            "doc": 42,
+            "url": "https://habr.com/ru/post/275841/",
+            "tf-idf": 0.002254
+        },
+        {
+            "doc": 41,
+            "url": "https://habr.com/ru/post/142140/",
+            "tf-idf": 0.002171
+        },
+        {
+            "doc": 75,
+            "url": "https://habr.com/ru/post/491974/",
+            "tf-idf": 0.002145
+        },
+        {
+            "doc": 86,
+            "url": "https://habr.com/ru/post/117160/",
+            "tf-idf": 0.002029
+        },
+        {
+            "doc": 22,
+            "url": "https://habr.com/ru/post/316912/",
+            "tf-idf": 0.001828
+        },
+        {
+            "doc": 92,
+            "url": "https://habr.com/ru/post/543202/",
+            "tf-idf": 0.001797
+        },
+        {
+            "doc": 81,
+            "url": "https://habr.com/ru/post/196282/",
+            "tf-idf": 0.001761
+        },
+        {
+            "doc": 53,
+            "url": "https://habr.com/ru/post/450266/",
+            "tf-idf": 0.0017
+        },
+        {
+            "doc": 10,
+            "url": "https://habr.com/ru/post/68131/",
+            "tf-idf": 0.001667
+        },
+        {
+            "doc": 95,
+            "url": "https://habr.com/ru/post/134150/",
+            "tf-idf": 0.001434
+        },
+        {
+            "doc": 70,
+            "url": "https://habr.com/ru/post/178339/",
+            "tf-idf": 0.001351
+        },
+        {
+            "doc": 79,
+            "url": "https://habr.com/ru/post/211701/",
+            "tf-idf": 0.001328
+        },
+        {
+            "doc": 4,
+            "url": "https://habr.com/ru/post/206900/",
+            "tf-idf": 0.001285
+        },
+        {
+            "doc": 3,
+            "url": "https://habr.com/ru/post/541076/",
+            "tf-idf": 0.001215
+        },
+        {
+            "doc": 15,
+            "url": "https://habr.com/ru/post/543692/",
+            "tf-idf": 0.001188
+        },
+        {
+            "doc": 64,
+            "url": "https://habr.com/ru/post/543052/",
+            "tf-idf": 0.001182
+        },
+        {
+            "doc": 6,
+            "url": "https://habr.com/ru/post/534242/",
+            "tf-idf": 0.001134
+        },
+        {
+            "doc": 88,
+            "url": "https://habr.com/ru/post/210142/",
+            "tf-idf": 0.000953
+        },
+        {
+            "doc": 78,
+            "url": "https://habr.com/ru/post/67141/",
+            "tf-idf": 0.000941
+        },
+        {
+            "doc": 58,
+            "url": "https://habr.com/ru/post/131581/",
+            "tf-idf": 0.000938
+        },
+        {
+            "doc": 9,
+            "url": "https://habr.com/ru/post/211845/",
+            "tf-idf": 0.000924
+        },
+        {
+            "doc": 18,
+            "url": "https://habr.com/ru/post/132668/",
+            "tf-idf": 0.000842
+        },
+        {
+            "doc": 13,
+            "url": "https://habr.com/ru/post/216315/",
+            "tf-idf": 0.000829
+        },
+        {
+            "doc": 68,
+            "url": "https://habr.com/ru/post/87060/",
+            "tf-idf": 0.000819
+        },
+        {
+            "doc": 46,
+            "url": "https://habr.com/ru/post/540136/",
+            "tf-idf": 0.000714
+        },
+        {
+            "doc": 74,
+            "url": "https://habr.com/ru/post/217645/",
+            "tf-idf": 0.000599
+        },
+        {
+            "doc": 50,
+            "url": "https://habr.com/ru/post/130877/",
+            "tf-idf": 0.00054
+        },
+        {
+            "doc": 96,
+            "url": "https://habr.com/ru/post/453596/",
+            "tf-idf": 0.000538
+        },
+        {
+            "doc": 52,
+            "url": "https://habr.com/ru/post/448530/",
+            "tf-idf": 0.000513
+        },
+        {
+            "doc": 2,
+            "url": "https://habr.com/ru/post/110395/",
+            "tf-idf": 0.000464
+        },
+        {
+            "doc": 77,
+            "url": "https://habr.com/ru/post/192604/",
+            "tf-idf": 0.000378
+        },
+        {
+            "doc": 54,
+            "url": "https://habr.com/ru/post/440092/",
+            "tf-idf": 0.000211
+        }
+    ],
+    "как заработать": [
+        {
+            "doc": 66,
+            "url": "https://habr.com/ru/post/335010/",
+            "tf-idf": 0.043491
+        },
+        {
+            "doc": 85,
+            "url": "https://habr.com/ru/post/201172/",
+            "tf-idf": 0.028056
+        },
+        {
+            "doc": 16,
+            "url": "https://habr.com/ru/post/147042/",
+            "tf-idf": 0.022653
+        },
+        {
+            "doc": 40,
+            "url": "https://habr.com/ru/post/146730/",
+            "tf-idf": 0.015995
+        },
+        {
+            "doc": 62,
+            "url": "https://habr.com/ru/post/192218/",
+            "tf-idf": 0.01158
+        }
+    ],
+    "как заработать миллион": [
+        {
+            "doc": 66,
+            "url": "https://habr.com/ru/post/335010/",
+            "tf-idf": 0.038037
+        },
+        {
+            "doc": 85,
+            "url": "https://habr.com/ru/post/201172/",
+            "tf-idf": 0.032076
+        },
+        {
+            "doc": 16,
+            "url": "https://habr.com/ru/post/147042/",
+            "tf-idf": 0.019813
+        },
+        {
+            "doc": 23,
+            "url": "https://habr.com/ru/post/439766/",
+            "tf-idf": 0.017524
+        },
+        {
+            "doc": 46,
+            "url": "https://habr.com/ru/post/540136/",
+            "tf-idf": 0.016376
+        },
+        {
+            "doc": 27,
+            "url": "https://habr.com/ru/post/415841/",
+            "tf-idf": 0.016249
+        },
+        {
+            "doc": 14,
+            "url": "https://habr.com/ru/post/347760/",
+            "tf-idf": 0.015751
+        },
+        {
+            "doc": 40,
+            "url": "https://habr.com/ru/post/146730/",
+            "tf-idf": 0.01399
+        },
+        {
+            "doc": 6,
+            "url": "https://habr.com/ru/post/534242/",
+            "tf-idf": 0.011244
+        },
+        {
+            "doc": 62,
+            "url": "https://habr.com/ru/post/192218/",
+            "tf-idf": 0.010128
+        },
+        {
+            "doc": 42,
+            "url": "https://habr.com/ru/post/275841/",
+            "tf-idf": 0.00819
+        },
+        {
+            "doc": 75,
+            "url": "https://habr.com/ru/post/491974/",
+            "tf-idf": 0.006943
+        },
+        {
+            "doc": 25,
+            "url": "https://habr.com/ru/post/273249/",
+            "tf-idf": 0.006819
+        },
+        {
+            "doc": 96,
+            "url": "https://habr.com/ru/post/453596/",
+            "tf-idf": 0.006174
+        },
+        {
+            "doc": 83,
+            "url": "https://habr.com/ru/post/497114/",
+            "tf-idf": 0.006025
+        },
+        {
+            "doc": 84,
+            "url": "https://habr.com/ru/post/536750/",
+            "tf-idf": 0.005066
+        },
+        {
+            "doc": 64,
+            "url": "https://habr.com/ru/post/543052/",
+            "tf-idf": 0.004517
+        },
+        {
+            "doc": 55,
+            "url": "https://habr.com/ru/post/178959/",
+            "tf-idf": 0.004166
+        },
+        {
+            "doc": 15,
+            "url": "https://habr.com/ru/post/543692/",
+            "tf-idf": 0.003276
+        },
+        {
+            "doc": 29,
+            "url": "https://habr.com/ru/post/543688/",
+            "tf-idf": 0.003055
+        },
+        {
+            "doc": 41,
+            "url": "https://habr.com/ru/post/142140/",
+            "tf-idf": 0.00152
+        },
+        {
+            "doc": 65,
+            "url": "https://habr.com/ru/post/134373/",
+            "tf-idf": 0.00108
+        }
+    ],
+    "миллион": [
+        {
+            "doc": 23,
+            "url": "https://habr.com/ru/post/439766/",
+            "tf-idf": 0.036144
+        },
+        {
+            "doc": 46,
+            "url": "https://habr.com/ru/post/540136/",
+            "tf-idf": 0.033776
+        },
+        {
+            "doc": 27,
+            "url": "https://habr.com/ru/post/415841/",
+            "tf-idf": 0.033513
+        },
+        {
+            "doc": 14,
+            "url": "https://habr.com/ru/post/347760/",
+            "tf-idf": 0.032487
+        },
+        {
+            "doc": 6,
+            "url": "https://habr.com/ru/post/534242/",
+            "tf-idf": 0.02319
+        },
+        {
+            "doc": 42,
+            "url": "https://habr.com/ru/post/275841/",
+            "tf-idf": 0.016891
+        },
+        {
+            "doc": 85,
+            "url": "https://habr.com/ru/post/201172/",
+            "tf-idf": 0.015547
+        },
+        {
+            "doc": 75,
+            "url": "https://habr.com/ru/post/491974/",
+            "tf-idf": 0.01432
+        },
+        {
+            "doc": 25,
+            "url": "https://habr.com/ru/post/273249/",
+            "tf-idf": 0.014064
+        },
+        {
+            "doc": 96,
+            "url": "https://habr.com/ru/post/453596/",
+            "tf-idf": 0.012735
+        },
+        {
+            "doc": 83,
+            "url": "https://habr.com/ru/post/497114/",
+            "tf-idf": 0.012426
+        },
+        {
+            "doc": 84,
+            "url": "https://habr.com/ru/post/536750/",
+            "tf-idf": 0.010449
+        },
+        {
+            "doc": 64,
+            "url": "https://habr.com/ru/post/543052/",
+            "tf-idf": 0.009317
+        },
+        {
+            "doc": 55,
+            "url": "https://habr.com/ru/post/178959/",
+            "tf-idf": 0.008592
+        },
+        {
+            "doc": 15,
+            "url": "https://habr.com/ru/post/543692/",
+            "tf-idf": 0.006756
+        },
+        {
+            "doc": 29,
+            "url": "https://habr.com/ru/post/543688/",
+            "tf-idf": 0.006301
+        },
+        {
+            "doc": 41,
+            "url": "https://habr.com/ru/post/142140/",
+            "tf-idf": 0.003135
+        },
+        {
+            "doc": 65,
+            "url": "https://habr.com/ru/post/134373/",
+            "tf-idf": 0.002227
+        }
+    ]
+}
